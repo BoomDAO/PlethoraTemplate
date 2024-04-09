@@ -1,0 +1,723 @@
+fileFormatVersion: 2
+guid: 85f0f53c68049604abbd48301c1d4ced
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ear
+    second: {fileID: 2100000, guid: 8374eb4356f7f024197c163f2f373991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_left
+    second: {fileID: 2100000, guid: 4a65a8a206e90504db25bfc04cb532c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: around_eyes
+    second: {fileID: 2100000, guid: 2fd02fa4feae8fe45b6d424aa2fa9793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bag
+    second: {fileID: 2100000, guid: cdd1f7038d50c0547800ecb5a9d3974c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bandage
+    second: {fileID: 2100000, guid: 0fe99e340727d274faaa0161eb7f9605, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boots
+    second: {fileID: 2100000, guid: 4bb51db8039a1d042bc4e3de88a68e3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boots_metal
+    second: {fileID: 2100000, guid: e91df7d28d34cb54eab148c9ad094b23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_1
+    second: {fileID: 2100000, guid: 92870e2de8b7cbf499a131bdadb7a3ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_2
+    second: {fileID: 2100000, guid: 15853c3084069ea40b4156626d3b3e9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_3
+    second: {fileID: 2100000, guid: 6aef8712890d75541951a1ffd522b274, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_4
+    second: {fileID: 2100000, guid: 890b8b6d04d202847a6f75ae51b31502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_5
+    second: {fileID: 2100000, guid: da7643919de17234d9eb13b4568f7b05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_6
+    second: {fileID: 2100000, guid: 6565c6a598bb3f7438d5b41df44b1193, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_7
+    second: {fileID: 2100000, guid: c87957c590bacba4ab4d6003a0f02bf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_8
+    second: {fileID: 2100000, guid: c8781c2c879bcd94e8a2020969003dae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_9
+    second: {fileID: 2100000, guid: fba9965e54b428f408b884e798ab36de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_clock_1
+    second: {fileID: 2100000, guid: efb2b5eca1040d54b831fdb990380bb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_clock_2
+    second: {fileID: 2100000, guid: 03ac0c2fbf52a0348837c44c1bde05ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_clock_3
+    second: {fileID: 2100000, guid: 54facd97d6eadc343a1d93ffc213f0d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: collar
+    second: {fileID: 2100000, guid: 3a7c59cf21fc23f45889bb51b2e3d50f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ear_dark
+    second: {fileID: 2100000, guid: b2d8db570b5b4c844877cf22143ab80b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_socket
+    second: {fileID: 2100000, guid: de6221eaf10be5743aa42b98b199c18d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyebrows
+    second: {fileID: 2100000, guid: 06c6db0c826c0f5478a598bdb59a69f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyes_center
+    second: {fileID: 2100000, guid: ff514ca57bac6974babf7a0fae65115d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyes_iris
+    second: {fileID: 2100000, guid: 467b570ab6cf13a4680f428e34a58bcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyes_white
+    second: {fileID: 2100000, guid: 8346eecf0b0d02b40834ed348004f341, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: face_blue
+    second: {fileID: 2100000, guid: 474500bac80bf3e4daa59e9bd66dafd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: face_brown_curls
+    second: {fileID: 2100000, guid: 79c5ddb8a40822d41b5d76f204ad1691, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: face_dark_blue
+    second: {fileID: 2100000, guid: e1c05a53853a71c44adf5a60c25f9666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: face_dark_brown
+    second: {fileID: 2100000, guid: 04f43669ba71757409cbc0a03d650c18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: face_main
+    second: {fileID: 2100000, guid: b9332cba7d1e1884ebee04904245993d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fan
+    second: {fileID: 2100000, guid: 766c16754d388f442acc68dbcba261cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gold_collar
+    second: {fileID: 2100000, guid: 232f4afdb84136c4e8e87f5b97173747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hands
+    second: {fileID: 2100000, guid: 05e8efb4ad8e9f84aa684f1f4a3daae6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: head_white
+    second: {fileID: 2100000, guid: db11ffca922227d44b163d6c01f0070c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light
+    second: {fileID: 2100000, guid: 19f51741766f8604c8129d426e2c745e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_right
+    second: {fileID: 2100000, guid: bb8eea56a648e49428e7f5f3dd0e5101, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: logo
+    second: {fileID: 2100000, guid: 3727bffe07a27ac41a01f07c88234eca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 89a8485c5278b0e419d86574d2d2284b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouth
+    second: {fileID: 2100000, guid: 54f982fd168686444a391d39e13d04a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nose
+    second: {fileID: 2100000, guid: 013185506900c564a943d1d31f2c7a07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong15
+    second: {fileID: 2100000, guid: 402687dbfac214d47bb83a9e6e2a289d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipe_L
+    second: {fileID: 2100000, guid: decf798b50a81db4ca545b0515923cd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipe_R
+    second: {fileID: 2100000, guid: a249bb201b9b304449ea1185c4e81e99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic
+    second: {fileID: 2100000, guid: 6710b0e15e367604da618ba5fbf7cf07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber
+    second: {fileID: 2100000, guid: 66a160a2d3e68dd4894c30950e3e3859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screen
+    second: {fileID: 2100000, guid: c8252d69b30d4164499f85ffd8c3f1a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: small_bag
+    second: {fileID: 2100000, guid: 8e6af4f9ec8d36c44993b7237662f7d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suit1
+    second: {fileID: 2100000, guid: 2ffe562402da8cd44be2a89a8bd9486b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth
+    second: {fileID: 2100000, guid: c20be82b2cec42e45823dfa53f493e61, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Bone length in configuration
+      does not match position in animation file:\n\t'LegL_joint' : position error
+      = 69.730858 mm\n\t'KneeL_joint' : position error = 57.893330 mm\n\t'FootL_joint'
+      : position error = 71.167458 mm\n\t'ToeL_joint' : position error = 49.395500
+      mm\n\t'LegR_joint' : position error = 69.730911 mm\n\t'KneeR_joint' : position
+      error = 57.893097 mm\n\t'FootR_joint' : position error = 71.167618 mm\n\t'ToeR_joint'
+      : position error = 49.395500 mm\n\t'SP1_joint' : position error = 71.092072
+      mm\n\t'SP2_joint' : position error = 58.681820 mm\n\t'ClavicleL_joint' : position
+      error = 38.543415 mm\n\t'SholderL_joint' : position error = 83.091217 mm\n\t'ElbowL_joint'
+      : position error = 78.849655 mm\n\t'HandL_joint' : position error = 73.263168
+      mm\n\t'FingerR11_joint' : position error = 66.528191 mm\n\t'FingerR12_joint'
+      : position error = 27.138035 mm\n\t'FingerR21_joint' : position error = 59.214695
+      mm\n\t'FingerR22_joint' : position error = 27.288227 mm\n\t'FingerR31_joint'
+      : position error = 64.608627 mm\n\t'FingerR32_joint' : position error = 22.646305
+      mm\n\t'ThumbL1_joint' : position error = 39.092548 mm\n\t'ThumbL2_joint' :
+      position error = 20.488071 mm\n\t'ThumbL3_joint' : position error = 20.492147
+      mm\n\t'ClavicleR_joint' : position error = 38.543446 mm\n\t'SholderR_joint'
+      : position error = 83.091721 mm\n\t'ElbowR_joint' : position error = 78.849464
+      mm\n\t'HandR_joint' : position error = 73.262863 mm\n\t'FingerL11_joint' :
+      position error = 66.542923 mm\n\t'FingerL12_joint' : position error = 27.138042
+      mm\n\t'FingerL21_joint' : position error = 59.216221 mm\n\t'FingerL22_joint'
+      : position error = 27.287983 mm\n\t'FingerL31_joint' : position error = 64.593979
+      mm\n\t'FingerL32_joint' : position error = 22.646137 mm\n\t'ThumbR1_joint'
+      : position error = 39.099586 mm\n\t'ThumbR2_joint' : position error = 20.488033
+      mm\n\t'ThumbR3_joint' : position error = 20.492079 mm\n\t'Neck_joint' : position
+      error = 76.970505 mm\n\t'Head_joint' : position error = 68.446365 mm\n\t'EyeL_joint'
+      : position error = 52.361408 mm\n\t'EyeR_joint' : position error = 52.361401
+      mm\n\t'Jaw' : position error = 18.514038 mm\n"
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: moonwalker_default_00_model(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Geo_Suit_2Madril
+      parentName: moonwalker_default_00_model(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bull_Helmet
+      parentName: Geo_Suit_2Madril
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: geo_New
+      parentName: Geo_Suit_2Madril
+      position: {x: -0, y: -1.3, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hair_Jaw
+      parentName: geo_New
+      position: {x: -0, y: 1.3, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Madril_baf
+      parentName: geo_New
+      position: {x: -0, y: 1.3, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Madril_Brow
+      parentName: geo_New
+      position: {x: -0, y: 1.3, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Madril_Centr
+      parentName: geo_New
+      position: {x: -0, y: 1.3, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Madril_eye_L
+      parentName: geo_New
+      position: {x: -0, y: 1.3, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Madril_eye_R
+      parentName: geo_New
+      position: {x: -0, y: 1.3, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Madril_Hair_1
+      parentName: geo_New
+      position: {x: -0, y: 1.3, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Madril_Hair_3
+      parentName: geo_New
+      position: {x: -0, y: 1.3, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Madril_Head
+      parentName: geo_New
+      position: {x: -0, y: 1.3, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Madrila_tongue
+      parentName: geo_New
+      position: {x: -0, y: 1.3, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ring
+      parentName: geo_New
+      position: {x: -0, y: 1.3, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tooth_D
+      parentName: geo_New
+      position: {x: -0, y: 1.3, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tooth_U
+      parentName: geo_New
+      position: {x: -0, y: 1.3, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: gr_suit_2
+      parentName: Geo_Suit_2Madril
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface2
+      parentName: gr_suit_2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Suit2_cloth_v2
+      parentName: gr_suit_2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Suit2_Metal1
+      parentName: gr_suit_2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root
+      parentName: moonwalker_default_00_model(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips_joint
+      parentName: Root
+      position: {x: -0, y: 0.67055625, z: 0.044144757}
+      rotation: {x: -0.47657463, y: 0.522376, z: -0.47657463, w: 0.522376}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SP1_joint
+      parentName: Hips_joint
+      position: {x: -0.22624215, y: 0.006047956, z: -4.9564394e-17}
+      rotation: {x: 0.9952101, y: -0.09775907, z: -0.000000043502016, w: 0.000000004273183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SP2_joint
+      parentName: SP1_joint
+      position: {x: -0.18672214, y: 0.0059018205, z: 3.8254903e-17}
+      rotation: {x: 3.7218038e-23, y: -4.138271e-22, z: 0.022040593, w: 0.9997571}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck_joint
+      parentName: SP2_joint
+      position: {x: -0.24500977, y: -0.0045044348, z: 4.378436e-17}
+      rotation: {x: -0.46159008, y: 0.5356628, z: 0.46159008, w: 0.5356628}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_joint
+      parentName: Neck_joint
+      position: {x: -1.547354e-16, y: 0.21072906, z: 0.055465177}
+      rotation: {x: -1.3165537e-36, y: -0, z: -6.162976e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EarR_joint
+      parentName: Head_joint
+      position: {x: 0.1318464, y: 0.16583332, z: 0.018369105}
+      rotation: {x: -1.3165537e-36, y: -0, z: -6.162976e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EarL_joint
+      parentName: Head_joint
+      position: {x: -0.13185, y: 0.16583, z: 0.018369105}
+      rotation: {x: -1.3165537e-36, y: -0, z: -6.162976e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeR_joint
+      parentName: Head_joint
+      position: {x: 0.05372354, y: 0.11300163, z: 0.11014118}
+      rotation: {x: -6.862566e-13, y: 4.2021237e-29, z: 6.123254e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeL_joint
+      parentName: Head_joint
+      position: {x: -0.05372354, y: 0.11300163, z: 0.11014118}
+      rotation: {x: -1.3165537e-36, y: -0, z: -6.162976e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaw
+      parentName: Head_joint
+      position: {x: 1.127039e-16, y: 0.021954762, z: 0.054698132}
+      rotation: {x: -1.3165537e-36, y: -0, z: -6.162976e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ClavicleR_joint
+      parentName: SP2_joint
+      position: {x: -0.053224467, y: -0.037825778, z: -0.10388763}
+      rotation: {x: -0.46159008, y: 0.5356628, z: 0.46159008, w: 0.5356628}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SholderR_joint
+      parentName: ClavicleR_joint
+      position: {x: 0.25834456, y: -0.05072097, z: -0.025687193}
+      rotation: {x: 0.034827776, y: 0.9991998, z: 0.003470539, w: 0.019360539}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ElbowR_joint
+      parentName: SholderR_joint
+      position: {x: -0.2507892, y: -7.1054264e-16, z: 0.01072382}
+      rotation: {x: 0.00015290904, y: -0.019972414, z: -0.009195771, w: 0.9997583}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HandR_joint
+      parentName: ElbowR_joint
+      position: {x: -0.23320839, y: 0, z: 0.003539626}
+      rotation: {x: -9.511653e-16, y: 0.9990758, z: -1.0198514e-16, w: -0.04298392}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ThumbR1_joint
+      parentName: HandR_joint
+      position: {x: 0.06632278, y: -0.034398194, z: 0.09955843}
+      rotation: {x: -0.14234784, y: 0.81600374, z: 0.3856539, w: 0.40638158}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ThumbR2_joint
+      parentName: ThumbR1_joint
+      position: {x: -0.06522412, y: 3.5527132e-16, z: 0.000056576057}
+      rotation: {x: 0.00010106079, y: 0.0054306495, z: 0.018605843, w: 0.9998121}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ThumbR3_joint
+      parentName: ThumbR2_joint
+      position: {x: -0.06516972, y: -4.2632563e-16, z: -0.0029610505}
+      rotation: {x: 6.640836e-18, y: -0.7152715, z: 6.213538e-16, w: 0.6988467}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FingerL11_joint
+      parentName: HandR_joint
+      position: {x: 0.1949273, y: 0.020348389, z: 0.08040966}
+      rotation: {x: 0.05060213, y: 0.9977737, z: -0.04340145, w: 0.001855328}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FingerL12_joint
+      parentName: FingerL11_joint
+      position: {x: -0.08639497, y: 5.684342e-16, z: 0}
+      rotation: {x: 0.0000000021899793, y: 5.138067e-10, z: -0.00000002702657, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FingerL21_joint
+      parentName: HandR_joint
+      position: {x: 0.1879302, y: 0.0130166, z: -0.007148202}
+      rotation: {x: 0.051684678, y: 0.9937166, z: -0.0970771, w: -0.020789614}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FingerL22_joint
+      parentName: FingerL21_joint
+      position: {x: -0.0868394, y: 5.684342e-16, z: -0.002386139}
+      rotation: {x: -1.8162022e-16, y: -0.036690492, z: -4.3488336e-15, w: 0.9993267}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FingerL31_joint
+      parentName: HandR_joint
+      position: {x: 0.18295069, y: -0.0029709353, z: -0.09384265}
+      rotation: {x: 0.0477971, y: 0.9923326, z: -0.11366018, w: -0.008544735}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FingerL32_joint
+      parentName: FingerL31_joint
+      position: {x: -0.07209254, y: -2.842171e-16, z: -0.0005780453}
+      rotation: {x: -0.0012252433, y: -0.0148488665, z: 0.082225665, w: 0.9965024}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ClavicleL_joint
+      parentName: SP2_joint
+      position: {x: -0.053224467, y: -0.037825778, z: 0.10388763}
+      rotation: {x: -0.46159008, y: 0.5356628, z: 0.46159008, w: 0.5356628}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SholderL_joint
+      parentName: ClavicleL_joint
+      position: {x: -0.2583426, y: -0.050723135, z: -0.025686216}
+      rotation: {x: 0.99919945, y: 0.034835227, z: -0.01937608, w: -0.0033911162}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ElbowL_joint
+      parentName: SholderL_joint
+      position: {x: -0.2507892, y: -7.1054264e-16, z: 0.01072382}
+      rotation: {x: -0.0001560505, y: -0.019976394, z: 0.009223262, w: 0.99975795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HandL_joint
+      parentName: ElbowL_joint
+      position: {x: -0.23320839, y: -5.684342e-16, z: 0.003539626}
+      rotation: {x: -2.3174343e-15, y: 0.9990758, z: 4.168504e-15, w: -0.04298392}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ThumbL1_joint
+      parentName: HandL_joint
+      position: {x: 0.06634524, y: 0.03613629, z: 0.098897465}
+      rotation: {x: -0.42512068, y: -0.030060535, z: 0.9027242, w: -0.05880426}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ThumbL2_joint
+      parentName: ThumbL1_joint
+      position: {x: -0.06522412, y: 0, z: 0.000056576057}
+      rotation: {x: 0.00010106079, y: 0.0054306495, z: 0.018605843, w: 0.9998121}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ThumbL3_joint
+      parentName: ThumbL2_joint
+      position: {x: -0.06516972, y: 0, z: -0.0029610505}
+      rotation: {x: 3.3946122e-15, y: -0.7152715, z: 3.5133288e-15, w: 0.6988467}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FingerR31_joint
+      parentName: HandL_joint
+      position: {x: 0.18293649, y: 0.0016524778, z: -0.0940042}
+      rotation: {x: 0.0031995804, y: -0.110459864, z: 0.992796, w: -0.046308823}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FingerR32_joint
+      parentName: FingerR31_joint
+      position: {x: -0.07209254, y: 0, z: -0.0005780453}
+      rotation: {x: -0.0012252433, y: -0.0148488665, z: 0.082225665, w: 0.9965024}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FingerR21_joint
+      parentName: HandL_joint
+      position: {x: 0.18793188, y: -0.012962424, z: -0.007068741}
+      rotation: {x: -0.004187475, y: -0.09776173, z: 0.9940273, w: -0.048321493}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FingerR22_joint
+      parentName: FingerR21_joint
+      position: {x: -0.0868394, y: 2.842171e-16, z: -0.002386139}
+      rotation: {x: -7.000051e-17, y: -0.036690492, z: 5.7879214e-15, w: 0.9993267}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FingerR11_joint
+      parentName: HandL_joint
+      position: {x: 0.19494516, y: -0.018909054, z: 0.080592796}
+      rotation: {x: -0.0027861507, y: -0.040029936, z: 0.9979111, w: -0.050629333}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FingerR12_joint
+      parentName: FingerR11_joint
+      position: {x: -0.08639497, y: 2.842171e-16, z: -1.7763568e-17}
+      rotation: {x: 0.0000000030110432, y: -0.0000000029317495, z: -0.00000001796763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LegR_joint
+      parentName: Hips_joint
+      position: {x: 0.15738723, y: -0.015003934, z: 0.15583144}
+      rotation: {x: -0.008130145, y: 0.08127271, z: 0.9957043, w: 0.04360677}
+      scale: {x: 1, y: 1, z: 1}
+    - name: KneeR_joint
+      parentName: LegR_joint
+      position: {x: -0.18430461, y: 0.00024758338, z: -0.000043655633}
+      rotation: {x: 0.998572, y: 0.05342308, z: 0.00000011380006, w: -0.00000093006594}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FootR_joint
+      parentName: KneeR_joint
+      position: {x: -0.22655973, y: 0.0012345479, z: 0.000010990331}
+      rotation: {x: 0.77260345, y: 0.6348889, z: -0.00000003451073, w: -0.00000002685238}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ToeR_joint
+      parentName: FootR_joint
+      position: {x: -0.15682173, y: -0.011620531, z: 0.000010992433}
+      rotation: {x: -5.0866806e-16, y: -7.7054603e-16, z: -0.15401226, w: 0.98806894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ToeTipR_joint
+      parentName: ToeR_joint
+      position: {x: -0.096912056, y: 0, z: 0.0000000017890177}
+      rotation: {x: 0.0044191587, y: -0.707093, z: 0.0044191587, w: 0.707093}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LegL_joint
+      parentName: Hips_joint
+      position: {x: 0.15738723, y: -0.015003934, z: -0.15583144}
+      rotation: {x: 0.008130952, y: -0.08127463, z: 0.9957043, w: 0.043604307}
+      scale: {x: 1, y: 1, z: 1}
+    - name: KneeL_joint
+      parentName: LegL_joint
+      position: {x: -0.18430461, y: 0.00024758338, z: 0.000043655633}
+      rotation: {x: 0.998572, y: 0.053423077, z: -0.00000010661967, w: 0.0000011746756}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FootL_joint
+      parentName: KneeL_joint
+      position: {x: -0.22655973, y: 0.0012345479, z: -0.000010990294}
+      rotation: {x: 0.77260345, y: 0.6348889, z: -0.00000003451073, w: -0.000000026852382}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ToeL_joint
+      parentName: FootL_joint
+      position: {x: -0.15682173, y: -0.011620531, z: -0.000010988194}
+      rotation: {x: 2.3987524e-15, y: -7.869633e-16, z: -0.15401226, w: 0.98806894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ToeTipL_joint
+      parentName: ToeL_joint
+      position: {x: -0.096912056, y: -3.9968027e-17, z: 0.0000000017890178}
+      rotation: {x: 0.0044191587, y: -0.707093, z: 0.0044191587, w: 0.707093}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

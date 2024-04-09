@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 12218239fa62e4f10a1c3743a440b032
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Aestetico Formal
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 31f3d5eab447741cdb92f8cb08c799d0, type: 3}
+  - {fileID: 12800000, guid: 005bbb86cbbba45599e8a695f8c0c4d4, type: 3}
+  - {fileID: 12800000, guid: 71417828c8d5641bb8fd29d78bb7ec3f, type: 3}
+  - {fileID: 12800000, guid: 013679b3ea5a2428eabb804ac1287299, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

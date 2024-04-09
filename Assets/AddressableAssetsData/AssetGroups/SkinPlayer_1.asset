@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SkinPlayer_1
+  m_EditorClassIdentifier: 
+  m_GroupName: SkinPlayer_1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a2c6aa2bd54043f4ca38c30950b4f891
+  m_SerializeEntries:
+  - m_GUID: 8eacddeadcd984d4abafef4e50306f40
+    m_Address: SkinMoonwalkerDefault
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f0028a0c2637f4dc68d4ed20e765c935, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dff2b7e49f42bb746b27e19f708bd57c, type: 2}
+    - {fileID: 11400000, guid: 3e157184799c724449c2c6bcd78833d2, type: 2}

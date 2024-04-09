@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SkinMonster_1
+  m_EditorClassIdentifier: 
+  m_GroupName: SkinMonster_1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6f975b4bbec3e264099fb0b78a4d968c
+  m_SerializeEntries:
+  - m_GUID: 89e32eb3e91e52a4b94277c5587c4974
+    m_Address: SkinDoge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e36b3e90247b64247bb77b8820d40b13
+    m_Address: SkinMonsterPurple
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53f40dbd16849924fa2bcf6b7d8d8dc9
+    m_Address: SkinPepe
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f0028a0c2637f4dc68d4ed20e765c935, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 26754f08487caa04aa7c0091d6c9abe5, type: 2}
+    - {fileID: 11400000, guid: ab76d5513c8b70f409585e526ec62d37, type: 2}
