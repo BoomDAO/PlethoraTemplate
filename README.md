@@ -14,12 +14,13 @@ https://qxl6y-7qaaa-aaaal-adwlq-cai.raw.icp0.io/
 
 ## UNITY TEMPLATE
 
-This **Plethora Template** has all the necessary code for modding its first minigame (Meme Monster Pop). You will be able to swap, remove, add assets and to tweek the configurations of the "Meme Monster Pop" minigame. Plethora Template fully relies on the Boom Dao technology to achieve on-chain login authentication, payments, minting, burning, action system, entity datastore, white-label shop, and white-label NFT marketplace. We designed this template to facilitate the learning process of building a fully on-chain game with Boom Dao and ICP technology and to show case the potential for modding games with Boom Dao technology. 
+This ***Plethora Template*** has all the necessary code for modding its first minigame (Meme Monster Pop). You will be able to swap, remove, add assets, and tweek the configurations of the "Meme Monster Pop" minigame. Plethora Template fully relies on the Boom Dao technology to achieve on-chain login authentication, payments, minting, burning, action system, entity datastore, white-label shop, and white-label NFT marketplace. We designed this template to facilitate the learning process of building a fully on-chain game with Boom Dao and ICP technology and to showcase the potential for modding games with Boom Dao technology.
 
 ## TECH DOCUMENTATION
 
-This template comes with a tutorial that will guide you through the following porcesses:
-- Enabling gaming services (Login, Game Configurations). This will walk you through the process of deploying your own **World Canister** that will enable you to unlock the gaming services.
+This template comes with a tutorial that will guide you through the following steps:
+
+- Enabling gaming services (Login, Game Configurations). This will walk you through the process of deploying your own ***World Canister***, which will enable you to unlock the gaming services.
 - Template Modding
 - Playtest
 - Build process
