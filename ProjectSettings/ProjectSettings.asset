@@ -540,9 +540,9 @@ PlayerSettings:
   openGLRequireES32: 0
   m_TemplateCustomTags:
     GAME_ICON_IMAGE_URL: https://plethora-game.nyc3.cdn.digitaloceanspaces.com/game_logo.png
-    GAME_LOGO_IMAGE_URL: https://plethora-game.nyc3.cdn.digitaloceanspaces.com/game_logo.png
+    GAME_LOGO_IMAGE_URL: https://plethora-game.nyc3.cdn.digitaloceanspaces.com/GameImageTemplate.png
     GAME_NAME_IMAGE_URL: https://plethora-game.nyc3.cdn.digitaloceanspaces.com/game_name.svg
-    GAME_TITLE_IMAGE_URL: https://plethora-game.nyc3.cdn.digitaloceanspaces.com/game_name.svg
+    GAME_TITLE_IMAGE_URL: https://plethora-game.nyc3.cdn.digitaloceanspaces.com/GameLogoNameTemplate.png
     HIDE_FULL_SCREEN_BUTTON: true
     LOGIN_WEBPAGE_URL: https://7p3gx-jaaaa-aaaal-acbda-cai.icp0.io
     LOGO_URL: 
